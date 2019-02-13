@@ -1,0 +1,52 @@
+body {
+  background-color: #fff;
+}
+
+.main {
+  display: block;
+  position: relative;
+  top: 200px;
+  text-align: center;
+  clear: both;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.search {
+  display: block;
+  margin: 10px auto;
+}
+
+.buttons {
+  display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 2px;
+  padding: 0;
+  align-content: center;
+}
+
+li {
+  display: inline;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 2em;
+  width: 100%;
+  background-color: #f2f2f2;
+}
